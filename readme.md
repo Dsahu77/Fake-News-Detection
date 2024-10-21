@@ -1,5 +1,36 @@
-I have created a fake news detection model in this project.
-It is an end to end NLP project.
-First I have created an ipynb file where I am preprocessing the data and then training the model using logistic regression.
-Then I have stored the model and vectorizer in pkl files and made app.py using streamlit .
-On this website, you can enter a news article title and/or it's content and the model will try to accurately predict whether the news article is fake or not.
+# Fake News Detection Application
+
+This is a simple web application built using Streamlit that detects whether a news article is fake or real based on its title and content. The application utilizes Natural Language Processing (NLP) techniques and a pre-trained machine learning model for classification.
+
+## Table of Contents
+
+- [Features](#features)
+- [Technologies Used](#technologies-used)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
+
+## Features
+
+- User-friendly interface to input news articles.
+- Real-time prediction of news authenticity.
+- Utilizes NLP techniques for text preprocessing.
+- Displays results indicating whether the news is fake or real.
+
+## Technologies Used
+
+- **Streamlit**: For building the web application interface.
+- **NLTK**: For natural language processing tasks (e.g., stopwords, stemming).
+- **Scikit-learn**: For the machine learning model used for predictions.
+- **Pickle**: For loading pre-trained model and vectorizer.
+
+## Installation
+
+To set up the application, follow these steps:
+
+1. Clone the repository:
+
+   ```bash
+   git clone <repository-url>
+   cd <repository-directory>
