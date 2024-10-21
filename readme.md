@@ -25,6 +25,9 @@ This is a simple web application built using Streamlit that detects whether a ne
 - **Scikit-learn**: For the machine learning model used for predictions.
 - **Pickle**: For loading pre-trained model and vectorizer.
 
+## Link to the streamlit website
+[Website Link:](https://dsahu77-sentiment-analysis-of-restaurant-reviews-app-gxyhev.streamlit.app/)
+
 ## Installation
 
 To set up the application, follow these steps:
@@ -34,3 +37,5 @@ To set up the application, follow these steps:
    ```bash
    git clone <repository-url>
    cd <repository-directory>
+
+
