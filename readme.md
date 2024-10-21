@@ -1,6 +1,6 @@
 # Fake News Detection Application
 
-This is a simple web application built using Streamlit that detects whether a news article is fake or real based on its title and content. The application utilizes Natural Language Processing (NLP) techniques and a pre-trained machine learning model for classification.
+This is a simple web application built using Streamlit that detects whether a news article is fake or real based on its title and content. The application utilizes Natural Language Processing (NLP) techniques and a pre-trained machine learning model for classification. The code of the model is given in the .ipynb file.
 
 ## Table of Contents
 
