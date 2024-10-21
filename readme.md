@@ -26,7 +26,7 @@ This is a simple web application built using Streamlit that detects whether a ne
 - **Pickle**: For loading pre-trained model and vectorizer.
 
 ## Link to the streamlit website
-[Website Link](https://dsahu77-sentiment-analysis-of-restaurant-reviews-app-gxyhev.streamlit.app/)
+[Website Link](https://dsahu77-fake-news-detection-app-frpwxu.streamlit.app/)
 
 ## Installation
 
