@@ -7,7 +7,6 @@ This is a simple web application built using Streamlit that detects whether a ne
 - [Features](#features)
 - [Technologies Used](#technologies-used)
 - [Link to the streamlit website](#usage)
-- [Installation](#installation)
 
 ## Features
 
@@ -25,15 +24,4 @@ This is a simple web application built using Streamlit that detects whether a ne
 
 ## Link to the streamlit website
 [Website Link](https://dsahu77-fake-news-detection-app-frpwxu.streamlit.app/)
-
-## Installation
-
-To set up the application, follow these steps:
-
-1. Clone the repository:
-
-   ```bash
-   git clone <repository-url>
-   cd <repository-directory>
-
 
