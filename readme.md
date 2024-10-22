@@ -6,10 +6,8 @@ This is a simple web application built using Streamlit that detects whether a ne
 
 - [Features](#features)
 - [Technologies Used](#technologies-used)
+- [Link to the streamlit website](#usage)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 
